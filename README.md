@@ -47,7 +47,7 @@ A full stack Dribble clone developed using Next.js, GraphQL, Next Auth, TypeScri
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -102,7 +102,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+## <a name="snippets">Snippets</a>
 
 <details>
 <summary><code>common.types.ts</code></summary>
