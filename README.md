@@ -1,4 +1,4 @@
-<h3 align="center">A Full Stack Dribble Clone</h3>
+<h1 align="center">A Full Stack Dribble Clone</h1>
 
 ## <a name="table">Table of Contents</a>
 
